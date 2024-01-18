@@ -1,0 +1,41 @@
+Weather Website Project
+
+Description
+This project is a simple and intuitive weather website that provides users with current weather information for a specified location. The user-friendly interface allows anyone to quickly check the weather conditions, making it a handy tool for daily use.
+
+Features
+
+Current Weather Display: Get real-time updates on temperature, humidity, and wind speed.
+Location-based: Enter the name of any city to retrieve accurate weather data.
+Responsive Design: Access the website seamlessly on various devices, from desktops to mobile phones.
+
+
+Technologies Used
+
+HTML: Markup language for creating the structure of the website.
+CSS: Stylesheet language for designing the layout and appearance.
+JavaScript: Programming language for interactive and dynamic features.
+Getting Started
+
+Usage
+
+Enter the name of the city or location for which you want to check the weather.
+Click the "Enter" button to retrieve and display the current weather information.
+
+
+Acknowledgments
+
+
+Special thanks to Weather API for providing the weather data.
+Contact
+For inquiries or feedback, please contact the project author:
+
+Name: Aatheesh
+Email: akboyrog@gmail.com
+
+Feel free to customize this template according to your project's specific details and structure. Include relevant information about the features, technologies used, and how others can contribute to your project.
+
+
+
+
+
